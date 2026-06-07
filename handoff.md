@@ -1,13 +1,15 @@
 # Handoff — AI Prompt Pack 작성 작업
 
-date: 2026-06-07
-status: zip-ready
+date: 2026-06-08
+status: etsy-in-progress
+last_commit: e482e13
 last_completed: |
-  - PDF 8개 변환 완료 (오너 확인 완료)
-  - CSS pre-wrap 적용 (가로스크롤 제거)
-  - TXT 파일 4개 생성 완료
-  - make-zip.js 준비 완료
-next_action: node make-zip.js 실행 → dist/ 폴더의 ZIP 4개를 Gumroad 상품 파일로 업로드
+  - ZIP 4개 생성 완료 (dist/ 폴더)
+  - Gumroad 4개 상품 등록 완료 (2026-06-08)
+  - 가격 조정 완료: Etsy $14.99~$24.99, Whop Gumroad와 동일화
+  - 상품명 직업명 선두 포맷 전체 통일
+  - GitHub repo 생성 및 push 완료 (github.com/june0486/aiPrompts)
+next_action: Etsy 등록 완료 후 launch-guide.md 체크리스트 표시 → Whop 등록 진행
 resume_command: "aiPrompts 프로젝트 handoff.md 읽고 시작"
 
 ---
