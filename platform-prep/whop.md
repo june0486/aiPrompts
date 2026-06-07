@@ -22,7 +22,7 @@
 **Product Name:**
 Bookkeeper & Accountant ChatGPT Prompts — Invoice Follow-Ups, P&L Reports & Tax Season Templates
 
-**Price:** $47
+**Price:** $37
 
 **Checkout Page Headline:**
 25 Done-for-You ChatGPT Prompts That Handle the Emails and Reports You Hate Writing
@@ -77,7 +77,7 @@ Bank reconciliation discrepancy notes, software upgrade proposals, chart of acco
 **Product Name:**
 HR Manager & Recruiter ChatGPT Prompts — PIPs, Termination Letters & Performance Reviews
 
-**Price:** $39
+**Price:** $29
 
 **Checkout Page Headline:**
 25 HR Documents You Dread Writing — Done in 60 Seconds Each
@@ -132,7 +132,7 @@ Termination letters, FMLA notifications, workplace complaint acknowledgments, an
 **Product Name:**
 Nurse & Nurse Practitioner ChatGPT Prompts — SOAP Notes, Prior Auth Letters & HIPAA-Safe Templates
 
-**Price:** $67
+**Price:** $47
 
 **Checkout Page Headline:**
 25 HIPAA-Safe ChatGPT Prompts to Spend Less Time Charting, More Time on Care
@@ -187,7 +187,7 @@ Nursing care plans in NANDA format. Resume and LinkedIn editor for nurses in job
 **Product Name:**
 Paralegal & Legal Assistant ChatGPT Prompts — Demand Letters, SOL Memos & State-Aware Drafts
 
-**Price:** $49
+**Price:** $37
 
 **Checkout Page Headline:**
 25 State-Aware Legal Document Drafts — Built for Paralegals Who Work at Real Law Firms

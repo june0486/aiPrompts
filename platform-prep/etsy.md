@@ -23,7 +23,7 @@
 Bookkeeper ChatGPT Prompts | Client Emails, P&L Reports, Tax Season, Invoice Follow-Ups | 25 Templates
 ```
 
-### Price: $29
+### Price: $19.00
 
 ### Tags (13개, 공백 포함 20자 이하 검증 완료)
 1. bookkeeper prompts
@@ -124,7 +124,7 @@ Craft Supplies & Tools > Patterns & How To > Digital
 HR Manager ChatGPT Prompts | Job Descriptions, Interview Questions, PIPs, Termination Letters | 25 Templates
 ```
 
-### Price: $25
+### Price: $14.99
 
 ### Tags (13개, 공백 포함 20자 이하 검증 완료)
 1. HR prompts chatgpt
@@ -218,7 +218,7 @@ Craft Supplies & Tools > Patterns & How To > Digital
 Nurse ChatGPT Prompts | SOAP Notes, Prior Auth Letters, Shift Handoff, Patient Education | 25 Templates
 ```
 
-### Price: $39
+### Price: $24.99
 
 ### Tags (13개, 공백 포함 20자 이하 검증 완료)
 1. nursing AI prompts
@@ -312,7 +312,7 @@ Craft Supplies & Tools > Patterns & How To > Digital
 Paralegal ChatGPT Prompts | Demand Letters, Case Summaries, SOL Warnings, Document Drafts | 25 Templates
 ```
 
-### Price: $29
+### Price: $19.00
 
 ### Tags (13개, 공백 포함 20자 이하 검증 완료)
 1. paralegal prompts

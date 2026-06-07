@@ -100,26 +100,26 @@
 - Quantity: 999
 - Return Policy: No returns on digital items
 
-#### ITEM 1 — BOOKKEEPER ($29)
+#### ITEM 1 — BOOKKEEPER ($19.00)
 참조 파일: `platform-prep/etsy.md` → ITEM 1 섹션
 
 1. **Title (102자):** `Bookkeeper ChatGPT Prompts | Client Emails, P&L Reports, Tax Season, Invoice Follow-Ups | 25 Templates`
 2. **Photos:** 썸네일 이미지 (`listing.md` 브리프 참조) — 최소 1장, 권장 5장
 3. **Description:** etsy.md ITEM 1 Etsy Description 전체 복붙
-4. **Price:** $29
+4. **Price:** $19.00
 5. **Upload File:** `bookkeeper-accountant-chatgpt-prompts.zip` (dist/ 폴더)
 6. **Tags (13개):** etsy.md Tags 섹션에서 복붙
 7. **Category:** Craft Supplies & Tools > Patterns & How To > Digital
    *(등록 전 실제 Etsy에서 "chatgpt prompts bookkeeper" 상위 셀러 카테고리 수동 확인 권장)*
 8. **Shop Section:** "AI Prompt Packs" 신규 섹션 생성
 
-#### ITEM 2 — HR MANAGER ($25)
+#### ITEM 2 — HR MANAGER ($14.99)
 etsy.md ITEM 2 참조 / Title 108자 확인됨
 
-#### ITEM 3 — NURSE / NP ($39)
+#### ITEM 3 — NURSE / NP ($24.99)
 etsy.md ITEM 3 참조 / Title 103자 확인됨
 
-#### ITEM 4 — PARALEGAL ($29)
+#### ITEM 4 — PARALEGAL ($19.00)
 etsy.md ITEM 4 참조 / Title 104자 확인됨
 
 ### Etsy 완료 체크리스트
@@ -148,24 +148,24 @@ etsy.md ITEM 4 참조 / Title 104자 확인됨
 - Whop Marketplace: Enable ✓
 - Refund Policy: No refunds after download
 
-#### ITEM 1 — BOOKKEEPER ($47)
+#### ITEM 1 — BOOKKEEPER ($37)
 참조 파일: `platform-prep/whop.md` → ITEM 1 섹션
 
 1. **Product Name:** `Bookkeeper & Accountant ChatGPT Prompts — Invoice Follow-Ups, P&L Reports & Tax Season Templates`
 2. **Upload File:** `bookkeeper-accountant-chatgpt-prompts.zip` (dist/ 폴더)
-3. **Price:** $47
+3. **Price:** $37
 4. **Checkout Headline:** whop.md ITEM 1 Checkout Page Headline
 5. **Subheadline:** whop.md ITEM 1 Subheadline
 6. **Description:** whop.md ITEM 1 Full Description 전체
 7. **Tags:** bookkeeper, accountant, chatgpt prompts, financial professional, invoice follow-up, tax season, AI prompts
 
-#### ITEM 2 — HR MANAGER ($39)
+#### ITEM 2 — HR MANAGER ($29)
 whop.md ITEM 2 참조
 
-#### ITEM 3 — NURSE / NP ($67)
+#### ITEM 3 — NURSE / NP ($47)
 whop.md ITEM 3 참조
 
-#### ITEM 4 — PARALEGAL ($49)
+#### ITEM 4 — PARALEGAL ($37)
 whop.md ITEM 4 참조
 
 ### Whop 완료 체크리스트
