@@ -1,0 +1,699 @@
+# ChatGPT Prompts for Bookkeepers & Accountants
+### 25 Copy-Paste Templates | Client Emails · Financial Reports · Tax Season · Admin
+
+---
+
+> 🔒 **FINANCIAL DATA SECURITY NOTICE (applies to ALL prompts in this pack):**
+> Never input real client financial data into ChatGPT or any AI tool.
+> This includes: Social Security Numbers (SSN), Employer Identification Numbers (EIN),
+> full bank account numbers, full credit card numbers, payroll records, or any
+> personally identifiable financial information.
+>
+> Always use placeholders throughout every prompt:
+> - SSN → [SSN XXX-XX-XXXX]
+> - EIN → [Client EIN]
+> - Bank account → [Account Ending in XXXX]
+> - Client name → [Client Name] or a fictional alias
+> - Dollar amounts → use approximate or rounded figures where possible
+>
+> Review and verify all AI-generated output before sending to clients or filing
+> with any government agency. Final professional judgment remains with the
+> licensed bookkeeper or accountant.
+
+---
+
+## CATEGORY 1 — Client Communication (7 Prompts)
+
+---
+
+### Prompt 1 — Overdue Invoice Follow-Up (ONE-SHOT: All 3 Stages)
+
+```
+You are a professional bookkeeper writing collection emails for an overdue invoice.
+
+Client details:
+- Client Name: [Client Name]
+- Invoice Number: [Invoice #]
+- Invoice Amount: $[Amount]
+- Due Date: [Due Date]
+- Days Overdue: [Number] days
+- Service Provided: [Brief description, e.g., "monthly bookkeeping for March"]
+- My Business Name: [Your Business Name]
+
+Write all THREE follow-up emails at once, separated by dividers. Use the exact tone described for each stage.
+
+---
+
+EMAIL 1 — Gentle Reminder (Days 1–7 overdue)
+Tone: Warm, assume it slipped through. Offer easy ways to pay. No guilt.
+
+---
+
+EMAIL 2 — Firm Follow-Up (Days 8–21 overdue)
+Tone: Direct and professional. Reference that Email 1 was sent. State a clear deadline. Mention late fee policy if applicable: [Late fee policy, e.g., "1.5% per month" or "none"].
+
+---
+
+EMAIL 3 — Final Notice (Days 22+ overdue)
+Tone: Serious and formal. State this is the final notice before collections or service suspension. Keep it factual, not emotional.
+
+---
+
+Format each email with: Subject line, greeting, body paragraphs, and sign-off.
+My email signature: [Your Name, Title, Phone, Website]
+```
+
+---
+
+### Prompt 2 — New Client Welcome Email
+
+```
+You are a professional bookkeeper. Write a warm but professional welcome email for a new client who just signed on.
+
+Details:
+- Client Name: [Client Name / Business Name]
+- Services they signed up for: [e.g., monthly bookkeeping, payroll, tax prep]
+- First meeting or onboarding date: [Date or "TBD"]
+- Documents they need to send: [e.g., last 3 bank statements, prior year tax return, chart of accounts]
+- My Business Name: [Your Business Name]
+- My Name & Title: [Your Name, e.g., Jane Smith, Certified Bookkeeper]
+
+Write a welcome email that:
+1. Expresses genuine enthusiasm about working together
+2. Clearly lists what they need to send and by when
+3. Explains what happens next (e.g., onboarding call, first deliverable timeline)
+4. Reassures them they made a good choice
+
+Subject line + full email body. Professional but personable tone.
+```
+
+---
+
+### Prompt 3 — Rate Increase Announcement Email
+
+```
+You are a professional bookkeeper who needs to notify a long-term client of a service rate increase.
+
+Details:
+- Client Name: [Client Name]
+- Current monthly rate: $[Current Rate]
+- New monthly rate: $[New Rate]
+- Effective date: [Date, e.g., "September 1, 2025"]
+- Reason (choose one or combine): [Cost of living / expanded service scope / market rate adjustment / software cost increase]
+- How long they've been a client: [e.g., "2 years" or "since January 2023"]
+- Anything staying the same: [e.g., "service level, turnaround time, dedicated support"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a rate increase email that:
+1. Opens with appreciation for their loyalty
+2. Announces the new rate and effective date clearly
+3. Briefly explains the reason without over-apologizing
+4. Reinforces the value they're receiving
+5. Invites them to reach out with questions
+
+Tone: Confident, appreciative, not defensive. Subject line + full email.
+```
+
+---
+
+### Prompt 4 — Service Expansion Proposal Email
+
+```
+You are a professional bookkeeper. Write an email proposing an additional service to an existing client who currently only uses [Current Service].
+
+Details:
+- Client Name: [Client Name / Business Name]
+- Current service: [e.g., monthly bookkeeping]
+- New service to propose: [e.g., quarterly tax planning, payroll management, accounts receivable cleanup]
+- Why this client would benefit: [e.g., "their AR is aging over 60 days" / "tax season is approaching" / "they're hiring employees soon"]
+- Proposed add-on price: $[Amount] per [month/quarter/project]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a proposal email that:
+1. Opens with a specific observation about their business (use the benefit reason above)
+2. Introduces the service and what it includes
+3. States the price clearly
+4. Ends with a low-pressure call to action (e.g., "happy to chat for 15 minutes if you'd like to learn more")
+
+Tone: Consultative, helpful — not salesy. Subject line + full email.
+```
+
+---
+
+### Prompt 5 — Year-End Tax Document Request Email
+
+```
+You are a professional bookkeeper. Write a year-end email to a client requesting the documents needed for tax preparation.
+
+Details:
+- Client Name: [Client Name / Business Name]
+- Tax year: [e.g., 2024]
+- Document deadline (when you need them by): [Date]
+- List of documents needed: [e.g., all bank statements, PayPal/Stripe reports, mileage log, home office measurements, 1099s received, any large equipment purchases]
+- Filing deadline reminder: [e.g., "April 15, 2025" or "March 15 for S-Corps"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write an email that:
+1. Opens with a friendly year-end greeting
+2. Clearly lists each document needed (use a numbered or bulleted list)
+3. States the deadline and explains why it matters
+4. Makes it easy to respond (e.g., "reply to this email or upload to [your portal]")
+5. Offers to answer questions
+
+Subject line + full email. Friendly but organized tone.
+```
+
+---
+
+### Prompt 6 — Client Referral Request Email
+
+```
+You are a professional bookkeeper. Write a warm referral request email to send to a satisfied client.
+
+Details:
+- Client Name: [Client Name]
+- How long they've been a client: [e.g., "18 months"]
+- Recent win or specific compliment (if any): [e.g., "we just finished their cleanest tax season yet" or leave blank]
+- What kind of referral you're looking for: [e.g., "other small business owners, freelancers, or e-commerce sellers in the $200K–$1M revenue range"]
+- Incentive (if any): [e.g., "one month free" / "no incentive, just asking"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a referral email that:
+1. Opens by acknowledging the relationship and a recent positive moment
+2. Explains you're looking to grow and asks if they know anyone who might benefit
+3. Describes the ideal referral in one sentence
+4. Makes the ask feel easy and no-pressure
+5. Thanks them in advance
+
+Subject line + full email. Personal, genuine tone — not a form letter.
+```
+
+---
+
+### Prompt 7 — Scope of Services Confirmation Email
+
+```
+You are a professional bookkeeper. Write a scope-of-services confirmation email to send at the start of an engagement or after a scope discussion.
+
+Details:
+- Client Name: [Client Name / Business Name]
+- Services included: [List each service, e.g., "monthly bank reconciliation, accounts payable entry, monthly P&L and balance sheet, year-end 1099 preparation"]
+- Services NOT included (out of scope): [e.g., "tax filing, payroll, sales tax returns"]
+- Monthly fee: $[Amount]
+- Billing date: [e.g., "1st of each month"]
+- Deliverable schedule: [e.g., "reports delivered by the 10th of the following month"]
+- Communication method: [e.g., "email only / scheduled monthly calls"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a confirmation email that:
+1. Summarizes what is included in plain language
+2. Clearly states what is out of scope (this prevents disputes later)
+3. States the fee and billing terms
+4. Sets expectations for turnaround and communication
+5. Invites them to confirm they've read and agree by replying
+
+Subject line + full email. Professional, clear, zero ambiguity.
+```
+
+---
+
+## CATEGORY 2 — Financial Report Narratives (7 Prompts)
+
+---
+
+### Prompt 8 — Monthly P&L Summary Email
+
+```
+You are a professional bookkeeper. Write a monthly Profit & Loss summary email to send to a small business client.
+
+Details:
+- Client Business Name: [Business Name]
+- Month & Year: [e.g., March 2025]
+- Total Revenue: $[Amount]
+- Total Expenses: $[Amount]
+- Net Profit (or Loss): $[Amount]
+- Top 3 expense categories: [e.g., "Payroll $8,200 / Software $1,100 / Advertising $900"]
+- Notable change from last month (if any): [e.g., "revenue up 12%" / "utilities spiked due to rate increase" / "no major changes"]
+- One action item or observation: [e.g., "consider reviewing the software subscriptions line" or "strong month — on track for Q2 goal"]
+
+Write a P&L summary email that:
+1. Opens with the headline numbers in plain English (not accounting jargon)
+2. Highlights the top expense categories
+3. Notes any significant changes and gives a brief reason if known
+4. Ends with one clear observation or recommendation
+5. Keeps total length to 200–300 words
+
+Subject line + full email. Plain language, no jargon — write as if explaining to a business owner, not an accountant.
+```
+
+---
+
+### Prompt 9 — Cash Flow Statement Plain-Language Narrative
+
+```
+You are a professional bookkeeper. Write a plain-language narrative explaining a client's cash flow statement for a given period.
+
+Details:
+- Client Business Name: [Business Name]
+- Period: [e.g., Q1 2025 or Month of April 2025]
+- Operating Activities Net Cash: $[Amount] (positive = cash in, negative = cash out)
+- Key drivers of operating cash flow: [e.g., "strong collections on AR" / "large vendor payments due" / "seasonal slowdown in sales"]
+- Investing Activities Net Cash: $[Amount]
+- Details: [e.g., "purchased $12,000 equipment" or "none"]
+- Financing Activities Net Cash: $[Amount]
+- Details: [e.g., "owner drew $5,000" or "none"]
+- Ending Cash Balance: $[Amount]
+- Context/concern (if any): [e.g., "cash is lower than last quarter but receivables are healthy" or "none"]
+
+Write a 200–300 word narrative that:
+1. Opens with the ending cash position and whether it's healthy given the business context
+2. Explains operating cash flow in plain terms (what drove cash in/out from day-to-day operations)
+3. Briefly covers investing and financing if there's activity
+4. Ends with a one-sentence forward-looking note
+
+Audience: A small business owner who does not read financial statements regularly. Zero accounting jargon.
+```
+
+---
+
+### Prompt 10 — Budget vs. Actual Variance Explanation
+
+```
+You are a professional bookkeeper. Write a brief variance analysis narrative to explain the difference between budgeted and actual numbers for a client.
+
+Details:
+- Client Business Name: [Business Name]
+- Period: [e.g., June 2025]
+- Revenue — Budgeted: $[Amount] | Actual: $[Amount] | Variance: $[+/- Amount]
+- Total Expenses — Budgeted: $[Amount] | Actual: $[Amount] | Variance: $[+/- Amount]
+- Net Profit — Budgeted: $[Amount] | Actual: $[Amount] | Variance: $[+/- Amount]
+- Biggest positive variance and reason: [e.g., "marketing came in $2,000 under budget because the planned ad campaign was delayed"]
+- Biggest negative variance and reason: [e.g., "payroll was $3,500 over budget due to overtime during the product launch"]
+- Overall assessment: [e.g., "on track" / "slightly behind" / "ahead of plan"]
+
+Write a 200–250 word variance narrative that:
+1. Opens with the overall assessment in one sentence
+2. Explains the two to three most significant variances (positive and negative) in plain terms
+3. Attributes each variance to a specific, understandable cause
+4. Ends with a forward-looking statement (what to watch next month)
+
+Plain language, no accounting jargon. Format as a short memo or email-ready paragraph block.
+```
+
+---
+
+### Prompt 11 — Accounts Receivable Aging Summary
+
+```
+You are a professional bookkeeper. Write an AR aging summary message to help a business owner understand their outstanding receivables situation.
+
+Details:
+- Client Business Name: [Business Name]
+- Report Date: [Date]
+- Current (0–30 days): $[Amount] — [Number] invoices
+- 31–60 days: $[Amount] — [Number] invoices
+- 61–90 days: $[Amount] — [Number] invoices
+- 90+ days: $[Amount] — [Number] invoices
+- Total AR Outstanding: $[Amount]
+- Largest single overdue account (if comfortable sharing): [Client name or "Client A"] — $[Amount] — [Days] days overdue
+- Recommended action: [e.g., "send final notice to 90+ accounts" / "schedule a call with Client A" / "consider collections for 90+ accounts over $500"]
+
+Write a clear summary that:
+1. Opens with the total outstanding and what percentage is current vs. overdue
+2. Calls out the 61–90 and 90+ buckets specifically (these are the risk zones)
+3. Names the largest overdue account (use alias if needed) and recommends a specific action
+4. Ends with a suggested next step the business owner can take today
+
+Tone: Direct, helpful, not alarming. 150–200 words. Format as a short report or email.
+```
+
+---
+
+### Prompt 12 — Year-End Financial Health Summary Letter
+
+```
+You are a professional bookkeeper. Write a year-end financial health summary letter to send to a small business client.
+
+Details:
+- Client Business Name: [Business Name]
+- Tax Year: [e.g., 2024]
+- Total Annual Revenue: $[Amount]
+- Total Annual Expenses: $[Amount]
+- Net Profit: $[Amount] | Net Profit Margin: [%]
+- Revenue change vs. prior year: [e.g., "+18%" or "-5%"]
+- Top 3 expense categories for the year: [List with amounts]
+- Biggest financial win this year: [e.g., "reduced software costs by $4,200" / "collected on two long-overdue accounts"]
+- One area to improve next year: [e.g., "Q1 cash flow is consistently tight — consider a line of credit"]
+- One tax planning note: [e.g., "Q4 equipment purchase saved approximately $X in taxes" or "consider maxing out SEP-IRA before April 15"]
+
+Write a year-end letter (300–400 words) that:
+1. Opens with an overall assessment of the year
+2. Highlights the key financial metrics in plain terms
+3. Celebrates the biggest win
+4. Honestly names one area to work on in the coming year
+5. Closes with a forward-looking, encouraging tone
+
+Professional but warm. Not just numbers — tell the story of their year.
+```
+
+---
+
+### Prompt 13 — Payroll Summary Explanation
+
+```
+You are a professional bookkeeper. Write a payroll summary email to send to a business owner after processing payroll.
+
+Details:
+- Business Name: [Business Name]
+- Payroll Period: [e.g., "May 16–31, 2025"]
+- Pay Date: [Date]
+- Number of Employees: [Number]
+- Gross Payroll: $[Amount]
+- Total Employer Taxes (FICA, FUTA, SUTA): $[Amount]
+- Total Payroll Cost (gross + employer taxes + any benefits): $[Amount]
+- Any notable items: [e.g., "one employee hit the FUTA wage base — employer FUTA will drop next period" / "two PTO payouts included" / "nothing unusual"]
+- Next payroll date: [Date]
+
+Write a payroll summary email that:
+1. Confirms payroll was processed and the pay date
+2. States gross payroll, employer tax burden, and total cost clearly
+3. Explains any notable items in plain language
+4. States the next payroll date
+
+Keep it under 200 words. Clear, professional, no jargon. Format as a short confirmation email with subject line.
+```
+
+---
+
+### Prompt 14 — Quarterly Review Meeting Agenda
+
+```
+You are a professional bookkeeper. Write a quarterly financial review meeting agenda to send to a small business client before your meeting.
+
+Details:
+- Client Business Name: [Business Name]
+- Quarter Being Reviewed: [e.g., Q2 2025 (April–June)]
+- Meeting Date & Time: [Date and Time]
+- Meeting Format: [In-person / Video call / Phone]
+- Key topics to cover: [e.g., "Q2 P&L review, cash flow concerns, upcoming tax estimates, Q3 budget discussion"]
+- Any specific issue to address: [e.g., "payroll costs spiked in June — want to walk through why" or "none"]
+- Estimated meeting length: [e.g., 45 minutes]
+
+Write a meeting agenda that includes:
+1. A brief intro confirming the meeting details
+2. Numbered agenda items with estimated time for each
+3. A section for the client to add their own questions or topics
+4. Any documents they should review or bring
+
+Format as a professional email with the agenda embedded. 
+Tone: Organized, collaborative, and easy to read at a glance.
+```
+
+---
+
+## CATEGORY 3 — Tax & Compliance (6 Prompts)
+
+---
+
+### Prompt 15 — Tax Deduction Explanation by Industry
+
+```
+You are a professional bookkeeper. Write a plain-language explanation of common tax deductions for a client in a specific industry.
+
+Details:
+- Client Business Type: [e.g., freelance graphic designer / restaurant owner / real estate agent / e-commerce seller / contractor]
+- Business Structure: [e.g., Sole Proprietor / LLC / S-Corp]
+- Top deductions to explain: [List 5–8 specific deductions relevant to their industry, e.g., "home office, vehicle mileage, software subscriptions, professional development, client meals"]
+- Any deductions they've missed in prior years (if known): [e.g., "they've never tracked mileage" or "none"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a clear explanation that:
+1. Lists each deduction with a one-paragraph explanation of what qualifies, what documentation is needed, and a rough example of tax savings
+2. Flags any commonly missed deductions for their industry
+3. Includes a brief note on record-keeping best practices
+4. Ends with a reminder that this is general guidance and they should confirm specifics with their tax preparer
+
+Tone: Educational, helpful, not overwhelming. Write for someone who is not a numbers person.
+```
+
+---
+
+### Prompt 16 — Tax Season Preparation Checklist Email
+
+```
+You are a professional bookkeeper. Write a tax season preparation email with a checklist to send to all clients at the start of tax season.
+
+Details:
+- Tax Year: [e.g., 2024]
+- Document submission deadline (your internal deadline): [Date]
+- Tax filing deadline: [e.g., April 15, 2025]
+- Method for document submission: [e.g., "upload to our secure portal at [link]" / "email directly to [email]" / "drop off at office"]
+- Standard documents every client needs: [e.g., all 2024 bank statements, all 1099s received, mileage log, home office sq ft, major purchases over $500]
+- Anything new this year to flag: [e.g., "new 1099-K rules if you received payments via PayPal/Venmo/CashApp" or "none"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write an email with:
+1. A brief intro explaining it's time to start gathering tax documents
+2. A clean, numbered or bulleted checklist of required documents
+3. Any new rule or change to flag this year
+4. Clear instructions on how and where to submit documents
+5. Your deadline and the official filing deadline
+6. A friendly closing with your contact information
+
+Subject line + full email. Clear, organized, scannable.
+```
+
+---
+
+### Prompt 17 — IRS Notice Response Guidance Email
+
+```
+You are a professional bookkeeper. Write an email to a client who has received an IRS notice, to help them understand what it means and what to do next.
+
+Details:
+- Client Name: [Client Name]
+- IRS Notice Type/Number: [e.g., CP2000 / CP501 / CP503 / Letter 525 / other: describe briefly]
+- What the notice says (summarize): [e.g., "IRS says there's a discrepancy between reported income and 1099s on file" / "balance due notice for $X"]
+- Amount in question (if any): $[Amount or "N/A"]
+- Likely cause (if known): [e.g., "unreported 1099 income" / "estimated tax payment not credited" / "identity verification needed" / "unknown"]
+- Urgency level: [Response deadline date, or "no immediate deadline"]
+- Recommended next step: [e.g., "do not ignore — respond by [date]" / "we will review and respond on your behalf" / "likely requires CPA involvement"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a client email that:
+1. Opens by reassuring the client that IRS notices are common and does not mean they're in trouble (unless it genuinely is serious)
+2. Explains in plain English what the notice means
+3. States the recommended next step clearly
+4. Sets expectations for timeline and who handles what
+5. Ends with your contact info for questions
+
+Tone: Calm, reassuring, clear. Avoid creating panic. Subject line + full email.
+```
+
+---
+
+### Prompt 18 — Quarterly Estimated Tax Reminder
+
+```
+You are a professional bookkeeper. Write a quarterly estimated tax reminder email to send to self-employed clients or business owners.
+
+Details:
+- Client Name (or use "Dear [Client]" for a general template): [Client Name or leave as variable]
+- Tax quarter and due date: [e.g., "Q2 2025 — due June 16, 2025"]
+- Estimated payment amount (if calculated): $[Amount] or "see your estimated tax worksheet attached"
+- Payment method options: [e.g., "IRS Direct Pay at irs.gov/payments, EFTPS, or check payable to U.S. Treasury"]
+- State estimated tax due (if applicable): [State name + amount, or "N/A"]
+- Penalty note: [Include brief note about underpayment penalty, or "skip"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a reminder email that:
+1. Opens with the deadline date prominently stated
+2. States the federal payment amount and how to pay
+3. Includes state payment reminder if applicable
+4. Briefly explains what happens if they miss it (penalty — not scary, just factual)
+5. Offers to answer questions
+
+Subject line + full email. Short and action-oriented — this should take them less than 2 minutes to read and act on.
+```
+
+---
+
+### Prompt 19 — Audit Preparation Checklist
+
+```
+You are a professional bookkeeper. Write an audit preparation guide and checklist to share with a client who has been notified of an IRS audit.
+
+Details:
+- Client Business Name: [Business Name]
+- Audit type: [e.g., correspondence audit (by mail) / office audit / field audit]
+- Tax year(s) under audit: [e.g., 2022 and 2023]
+- Items being questioned (if known): [e.g., "home office deduction, vehicle expenses, Schedule C income" or "unknown — general review"]
+- Response deadline or audit date: [Date]
+- Who will handle the audit: [e.g., "I will handle correspondence on your behalf" / "you will need a CPA or tax attorney" / "we will prepare documents together"]
+
+Write a guide that includes:
+1. A brief intro reassuring the client and explaining the type of audit
+2. A numbered checklist of documents they need to locate and organize (specific to the items being questioned)
+3. General best practices for audit preparation (e.g., don't provide more than asked, keep records organized by year)
+4. Clear statement of who does what and by when
+5. Contact info for questions
+
+Tone: Calm, organized, professional. This is stressful for the client — be reassuring while being thorough.
+```
+
+---
+
+### Prompt 20 — New Employee Financial Onboarding Guide
+
+```
+You are a professional bookkeeper. Write a financial onboarding email/guide to send to a business owner who is hiring their first employee (or first few employees).
+
+Details:
+- Business Owner Name: [Name]
+- Business Name: [Business Name]
+- State of Business: [State]
+- Employee start date: [Date or "upcoming"]
+- Topics to cover: [Select all that apply: payroll setup / W-4 and I-9 forms / payroll taxes and deadlines / workers' comp / state withholding registration / payroll software options]
+- Payroll software they're using or considering: [e.g., "Gusto" / "QuickBooks Payroll" / "ADP" / "undecided"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write an onboarding guide email that:
+1. Congratulates them on their hire and sets the tone as "this is manageable — I'll guide you"
+2. Lists the immediate action items before the employee starts (W-4, I-9, payroll account setup)
+3. Explains employer payroll tax obligations in plain language (FICA match, FUTA, state requirements)
+4. Covers payroll deposit schedules (monthly vs. semi-weekly)
+5. Recommends payroll software based on what they've shared
+6. States your role going forward (what you handle vs. what they handle)
+
+Subject line + full email. Thorough but not overwhelming. Write as if this is their first time.
+```
+
+---
+
+## CATEGORY 4 — Business Operations & Admin (5 Prompts)
+
+---
+
+### Prompt 21 — Bank Reconciliation Discrepancy Explanation Note
+
+```
+You are a professional bookkeeper. Write a brief client-facing note explaining a bank reconciliation discrepancy and how it was resolved (or what needs to happen next).
+
+Details:
+- Client Business Name: [Business Name]
+- Month Being Reconciled: [e.g., May 2025]
+- Discrepancy found: $[Amount] difference between bank statement and books
+- Cause of discrepancy: [e.g., "outstanding check #1042 dated May 28 had not cleared" / "a $450 bank fee was not entered in the books" / "duplicate entry found for vendor payment" / "cause unknown — needs client clarification"]
+- Resolution: [e.g., "resolved — outstanding check cleared in June" / "corrected — fee entered and books reconciled" / "client needs to provide receipt for transaction on May 14"]
+- Books now reconcile: [Yes / No — pending client action]
+
+Write a short note (100–150 words) that:
+1. States the reconciliation period and that a discrepancy was found
+2. Explains the cause in plain terms (no jargon)
+3. States whether it's been resolved or what the client needs to do
+4. Keeps a reassuring, matter-of-fact tone
+
+Format as a brief internal memo or email note. Do not make the client feel like something is wrong with their business.
+```
+
+---
+
+### Prompt 22 — Accounting Software Upgrade Proposal
+
+```
+You are a professional bookkeeper. Write a proposal email recommending an accounting software upgrade or change for a client.
+
+Details:
+- Client Business Name: [Business Name]
+- Current software: [e.g., "spreadsheets" / "QuickBooks Desktop" / "Wave" / "FreshBooks"]
+- Recommended software: [e.g., "QuickBooks Online" / "Xero" / "Zoho Books"]
+- Main reason for recommendation: [e.g., "their current spreadsheet setup can't scale with their growth" / "bank feeds will automate 70% of data entry" / "real-time reporting will save 3+ hours/month in reconciliation"]
+- Estimated cost of new software: $[Amount]/month
+- Migration complexity: [Low / Medium — explain briefly, e.g., "can migrate historical data in 1–2 hours"]
+- My role in migration: [e.g., "I will handle the full migration" / "I'll guide you through setup"]
+
+Write a proposal email that:
+1. Opens by identifying the specific pain point the current software creates
+2. Recommends the specific software and explains why it's the right fit
+3. Estimates cost and migration effort honestly
+4. States your role clearly
+5. Ends with a soft call to action (e.g., "let me know if you'd like to schedule 20 minutes to walk through it")
+
+Tone: Advisory, not pushy. This is a recommendation, not a sales pitch. Subject line + full email.
+```
+
+---
+
+### Prompt 23 — Chart of Accounts Plain-Language Explainer
+
+```
+You are a professional bookkeeper. Write a plain-language explanation of the Chart of Accounts for a new client who has never seen one before.
+
+Details:
+- Client Business Name: [Business Name]
+- Business type: [e.g., service-based / product-based / both]
+- Accounting software being used: [e.g., QuickBooks Online / Xero / other]
+- Their biggest area of confusion (if known): [e.g., "they don't know the difference between an expense account and a liability" / "they've been miscategorizing income" / "general overview needed"]
+
+Write an explanation that:
+1. Starts with what a Chart of Accounts IS in one sentence (in plain English, not textbook definition)
+2. Explains the 5 main account types (Assets, Liabilities, Equity, Income, Expenses) with a real-world example for each using their specific business type
+3. Explains why getting categories right matters for their taxes and business decisions
+4. Gives 2–3 common miscategorization mistakes to avoid
+5. Ends with a reassurance that you manage this for them and they don't need to memorize it
+
+Tone: Educational, friendly, patient. Imagine explaining this to someone who runs a great business but has never taken an accounting class.
+```
+
+---
+
+### Prompt 24 — Financial Goal-Setting Session Follow-Up Email
+
+```
+You are a professional bookkeeper. Write a follow-up email after a financial goal-setting session with a client.
+
+Details:
+- Client Name: [Client Name / Business Name]
+- Session Date: [Date]
+- Goals discussed and agreed upon: [List 2–4 goals, e.g., "reach $300K in annual revenue / reduce monthly expenses by $1,500 / build a 3-month cash reserve / prepare to hire first employee by Q3"]
+- Key action items for the client: [e.g., "review software subscriptions by end of month" / "open a separate savings account for tax reserves"]
+- Key action items for you (bookkeeper): [e.g., "set up monthly budget tracking" / "create a dashboard showing revenue vs. goal"]
+- Next check-in: [e.g., "quarterly review scheduled for September 15"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a follow-up email that:
+1. Thanks them for their time and acknowledges the session was productive
+2. Clearly summarizes the goals agreed upon
+3. Lists action items for each party (client and bookkeeper)
+4. States the next check-in date
+5. Ends with an encouraging, forward-looking note
+
+Subject line + full email. Energetic but professional — they should feel motivated after reading this.
+```
+
+---
+
+### Prompt 25 — Post-Audit Results Summary Email
+
+```
+You are a professional bookkeeper. Write a post-audit summary email to send to a client after an IRS or state audit has concluded.
+
+Details:
+- Client Business Name: [Business Name]
+- Audit type: [e.g., IRS correspondence audit / state sales tax audit / payroll audit]
+- Tax year(s) audited: [Year(s)]
+- Outcome: [Choose: "no change" / "minor adjustment — client owes $X" / "refund issued — $X" / "penalty assessed — $X, payment plan arranged"]
+- Items examined: [e.g., "home office deduction, vehicle expenses"]
+- What happened with disputed items: [e.g., "home office accepted with documentation / vehicle deduction reduced by 20% due to insufficient mileage log"]
+- Next steps for the client: [e.g., "no action needed" / "pay $X by [date] via IRS Direct Pay" / "begin keeping a mileage log going forward"]
+- My Name & Business: [Your Name, Your Business Name]
+
+Write a post-audit email that:
+1. Opens with the headline result (resolved — here's what happened)
+2. Summarizes what was examined and the outcome for each item
+3. States clearly what the client needs to do (or that no action is needed)
+4. Includes one forward-looking lesson to prevent the same issue next audit
+5. Closes with a reassuring, confident tone
+
+Subject line + full email. The client has been through a stressful process — close it out with clarity and calm.
+```
