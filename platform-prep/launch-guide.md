@@ -71,12 +71,12 @@
 - Slug: `paralegal-legal-assistant-chatgpt-prompts`
 - Preview: `paralegal-preview.pdf`
 
-### Gumroad 완료 체크리스트
-- [ ] 4개 상품 Published 상태 확인
-- [ ] 각 상품 구매 테스트 (본인 계정으로 $0 쿠폰 적용 또는 실결제)
-- [ ] 다운로드 파일 정상 수신 확인
-- [ ] Preview 파일 노출 확인
-- [ ] Discover 설정 활성화 확인
+### Gumroad 완료 체크리스트 ✅ 2026-06-08 완료
+- [x] 4개 상품 Published 상태 확인
+- [x] 각 상품 구매 테스트 (본인 계정으로 $0 쿠폰 적용 또는 실결제)
+- [x] 다운로드 파일 정상 수신 확인
+- [x] Preview 파일 노출 확인
+- [x] Discover 설정 활성화 확인
 
 ---
 
