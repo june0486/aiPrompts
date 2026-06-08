@@ -2,7 +2,7 @@
 
 date: 2026-06-08
 status: gumroad-live / etsy-hold / whop-dropped
-last_commit: (갱신 예정)
+last_commit: 6af121d
 last_completed: |
   - ZIP 4개 생성 완료 (dist/ 폴더)
   - Gumroad 4개 상품 등록 완료 (2026-06-08)
