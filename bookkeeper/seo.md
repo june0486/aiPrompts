@@ -36,6 +36,5 @@ ChatGPT Prompts for Bookkeepers & Accountants — 25 Copy-Paste Templates for Cl
 |----------|-------|-------|
 | Gumroad  | $37   | Launch price. No platform fee pressure. |
 | Etsy     | $29   | Lower to compete with Etsy search results. |
-| Whop     | $47   | Premium positioning for community buyers. |
 
 **Rationale:** Bookkeeper pack targets self-employed bookkeepers and small firm accountants who make purchase decisions independently. $29–$37 range sits below "need to ask the boss" threshold and above "low quality" perception floor.

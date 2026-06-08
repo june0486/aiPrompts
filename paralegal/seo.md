@@ -36,6 +36,5 @@ ChatGPT Prompts for Paralegals & Legal Assistants — 25 Copy-Paste Templates fo
 |----------|-------|-------|
 | Gumroad  | $37   | Mid-range — matches bookkeeper pack. Legal buyers value precision. |
 | Etsy     | $29   | Competitive entry point. |
-| Whop     | $49   | Community/membership premium. |
 
 **Rationale:** Paralegals work in small to mid-size law firms where they often draft documents with limited attorney oversight time. The Demand Letter and PIP-equivalent documents (legal documents) are high-stakes, time-consuming, and highly variable by state — making the State variable feature a genuine purchase differentiator. Buyers in this category are professional and detail-oriented; quality and accuracy signals convert them.

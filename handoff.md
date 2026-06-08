@@ -1,15 +1,17 @@
 # Handoff — AI Prompt Pack 작성 작업
 
 date: 2026-06-08
-status: etsy-in-progress
-last_commit: e482e13
+status: gumroad-live / etsy-hold / whop-dropped
+last_commit: (갱신 예정)
 last_completed: |
   - ZIP 4개 생성 완료 (dist/ 폴더)
   - Gumroad 4개 상품 등록 완료 (2026-06-08)
-  - 가격 조정 완료: Etsy $14.99~$24.99, Whop Gumroad와 동일화
+  - 가격 조정 완료: Etsy $14.99~$24.99
   - 상품명 직업명 선두 포맷 전체 통일
   - GitHub repo 생성 및 push 완료 (github.com/june0486/aiPrompts)
-next_action: Etsy 등록 완료 후 launch-guide.md 체크리스트 표시 → Whop 등록 진행
+  - Whop 포기 (구조 복잡 + 파일 업로드 이슈) — 관련 파일 전부 삭제
+  - Etsy 홀딩 결정 (지출 최소화 + Gumroad 데이터 우선 확보)
+next_action: Gumroad 첫 판매 발생 시 Etsy 확장 재검토
 resume_command: "aiPrompts 프로젝트 handoff.md 읽고 시작"
 
 ---
@@ -79,7 +81,7 @@ assistance only — final clinical judgment remains with the provider.
 ### seo.md (3개 섹션)
 1. 추천 상품명 (Etsy 140자/Gumroad 자유)
 2. Etsy 태그 13개 (각 20자 이내)
-3. 가격 전략 (Gumroad/Etsy/Whop)
+3. 가격 전략 (Gumroad/Etsy)
 
 ### prompts.md (핵심 파일 — THE PRODUCT)
 - 카테고리별 구분 (4개 카테고리)

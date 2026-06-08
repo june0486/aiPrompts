@@ -1,6 +1,6 @@
 # 플랫폼 등록 실행 가이드
 
-출시 순서: **Gumroad → Etsy → Whop**
+출시 순서: **Gumroad → Etsy**
 
 ---
 
@@ -131,57 +131,11 @@ etsy.md ITEM 4 참조 / Title 104자 확인됨
 
 ---
 
-## PLATFORM 3 — WHOP
-
-**URL:** whop.com → Sell → Create Product
-
-### 계정 설정
-- Business type: Creator / Digital Products
-- Payout: Stripe 연결 필요
-
-### 상품 등록
-
-**공통 설정:**
-- Product Type: File (Digital Download)
-- File Delivery: Automatic
-- Pricing: One-time purchase
-- Whop Marketplace: Enable ✓
-- Refund Policy: No refunds after download
-
-#### ITEM 1 — BOOKKEEPER ($37)
-참조 파일: `platform-prep/whop.md` → ITEM 1 섹션
-
-1. **Product Name:** `Bookkeeper & Accountant ChatGPT Prompts — Invoice Follow-Ups, P&L Reports & Tax Season Templates`
-2. **Upload File:** `bookkeeper-accountant-chatgpt-prompts.zip` (dist/ 폴더)
-3. **Price:** $37
-4. **Checkout Headline:** whop.md ITEM 1 Checkout Page Headline
-5. **Subheadline:** whop.md ITEM 1 Subheadline
-6. **Description:** whop.md ITEM 1 Full Description 전체
-7. **Tags:** bookkeeper, accountant, chatgpt prompts, financial professional, invoice follow-up, tax season, AI prompts
-
-#### ITEM 2 — HR MANAGER ($29)
-whop.md ITEM 2 참조
-
-#### ITEM 3 — NURSE / NP ($47)
-whop.md ITEM 3 참조
-
-#### ITEM 4 — PARALEGAL ($37)
-whop.md ITEM 4 참조
-
-### Whop 완료 체크리스트
-- [ ] 4개 상품 Published
-- [ ] Whop Marketplace 노출 설정 확인
-- [ ] Checkout 페이지 Headline/Subheadline 반영 확인
-- [ ] 결제 테스트
-
----
-
 ## 최종 출시 후 확인
 
-1. **3개 플랫폼 URL 기록**
+1. **2개 플랫폼 URL 기록**
    - Gumroad: `gumroad.com/l/[slug]` × 4
    - Etsy: Shop URL + 각 Listing URL × 4
-   - Whop: 각 상품 URL × 4
 
 2. **Google 인덱싱 요청** (Gumroad 슬러그 URL 기준)
    - Google Search Console → URL 검사 → 색인 생성 요청

@@ -36,6 +36,5 @@ ChatGPT Prompts for HR Managers & Recruiters — 25 Copy-Paste Templates for Job
 |----------|-------|-------|
 | Gumroad  | $29   | Entry price — HR buyers are cost-conscious (often buying with personal card). |
 | Etsy     | $25   | Competitive with existing HR template sellers. |
-| Whop     | $39   | Premium community positioning. |
 
 **Rationale:** HR professionals often buy tools from their own pocket without reimbursement. Lower price point than bookkeeper pack. The PIP and termination prompts are the killer purchase trigger — buyers know how painful writing those is.
