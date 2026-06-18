@@ -1,3 +1,6 @@
 node_modules/
 *.log
 .DS_Store
+
+# Windows ADS junk (다운로드 출처 메타파일)
+*:Zone.Identifier
